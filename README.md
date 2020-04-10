@@ -9,3 +9,6 @@
 
 ## Linux
 - [我的 Linux 常用命令](https://github.com/L-42/Blog/issues/5)
+
+## 从零开始的 leetcode 生活
+- [回文链表](https://github.com/L-42/Blog/issues/7)
