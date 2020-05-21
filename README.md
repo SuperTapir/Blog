@@ -2,6 +2,7 @@
 
 ## 计算机通识
 - [跨域问题](https://github.com/L-42/Blog/issues/8)
+- [Session，Cookie 和 Token 的关系与区别](https://github.com/L-42/Blog/issues/9)
 
 ## JavaScript
 - [JavaScript 中的 生成器 和 迭代器](https://github.com/L-42/Blog/issues/1)
